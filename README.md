@@ -1,2 +1,3 @@
-# quote-api
-Codecademy Node.js API project (using Express.js)
+# Quote API (Express.js)
+
+![API Diagram](quote-frontend-diagram.png)
